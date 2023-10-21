@@ -1,0 +1,2 @@
+#area calculator
+def square(num1,num2)
